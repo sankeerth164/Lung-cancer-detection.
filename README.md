@@ -31,3 +31,8 @@ Results
 Validation Accuracy: ~95%
 Balanced performance across all classes with high precision and recall.
 
+
+
+Note: 
+Here i am uploading both file .ipynb and .py.
+
