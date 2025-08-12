@@ -34,5 +34,5 @@ Balanced performance across all classes with high precision and recall.
 
 
 Note: 
-Here i am uploading both file .ipynb and .py.
+Here I am uploading both file .ipynb and .py.
 
